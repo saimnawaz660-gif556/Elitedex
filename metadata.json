@@ -1,0 +1,6 @@
+{
+  "name": "EliteDex - Binary Trading Platform",
+  "description": "EliteDex is a modern, high-performance binary options trading platform featuring real-time market data, transparent deterministic trade settlement, advanced charts, and robust asset management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
